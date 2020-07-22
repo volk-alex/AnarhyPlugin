@@ -1,0 +1,5 @@
+name: AnarchyPlugin
+main: net.ddns.volkalex.anarchyPlugin.PluginBody
+version: 0.0.1
+api-version: 1.13
+commands:
