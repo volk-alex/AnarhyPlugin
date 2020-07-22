@@ -18,7 +18,7 @@ public class EventListner implements Listener {
 
 		if (DataStorHandler.isDead(playerName)) {
 			event.disallow(org.bukkit.event.player.AsyncPlayerPreLoginEvent.Result.KICK_OTHER,
-					"Твое время еще не пришло. " + "Приходи через " + timeLeftFormat(playerName));
+					"Твое время еще не пришло. Приходи через " + timeLeftFormat(playerName));
 		} else {
 			event.allow();
 		}

@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/BuildTools/спигот/1-14-4/Spigot/Spigot-API/target/spigot-api-1.14.4-R0.1-SNAPSHOT-shaded.jar">
+	<classpathentry kind="lib" path="C:/BuildTools/спигот/Spigot/Spigot-API/target/spigot-api-1.16.1-R0.1-SNAPSHOT-shaded.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="http://hub.spigotmc.org/javadocs/spigot/"/>
 		</attributes>
